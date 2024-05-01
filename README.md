@@ -7,6 +7,7 @@ Create a .env file in the backend directory with the following variables:
 ```REDIRECT_URI = https://api.versionvaulthub.com/google/redirect
 ```PORT = 
 ```MONGODB_URL = 
+```JWT_SECRET = 
 
 Also create an uploads directory on the same level as the backend directory, which will store the documents that are uploaded by the users.
 
